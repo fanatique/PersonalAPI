@@ -3,7 +3,7 @@
  *	API Controller
  *	Identifies the request method and checks if the used token is valid
  */
-
+error_reporting(0);
 require_once 'inc/config.php';
 require_once 'inc/api_functions.php';
 
